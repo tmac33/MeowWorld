@@ -29,9 +29,6 @@ namespace MeowWorld
                 .UseStartup<Startup>()
                 .Build();
 
-        public void Diss()
-        {
-            var s = "cerv";
-        }
+        
     }
 }
