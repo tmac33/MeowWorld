@@ -3,7 +3,6 @@ C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\bin\
 C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.runtimeconfig.dev.json
 C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.dll
 C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.pdb
-C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.csprojResolveAssemblyReference.cache
 C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.csproj.CoreCompileInputs.cache
 C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.AssemblyInfoInputs.cache
 C:\Users\bim_dev1\Documents\Visual Studio 2017\Projects\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.AssemblyInfo.cs
